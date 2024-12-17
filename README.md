@@ -1,1 +1,1 @@
-https://kirillasyamov.github.io/cv/
+https://kirillasyamov.github.io/backend-developer-cv/
